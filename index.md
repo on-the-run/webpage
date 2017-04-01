@@ -10,6 +10,9 @@ distributed systems. I have done research in network validation and synthesis,
 cloud computing, SDN distributed controller design, etc. I am currently
 focusing on building a general framework for validating network designs.
 
+Before coming to Purdue, I received my B.S. from School of EECS at Peking
+University in Beijing, China.
+
 
 ## Publications
 * **Yiyang Chang**, Sanjay Rao, and Mohit Tawarmalani. *Robust Validation of Network
