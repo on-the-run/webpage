@@ -1,4 +1,4 @@
-### [CV]({{https://github.com/on-the-run}}/webpage/docs/cv_yiyang_chang.pdf) | [Publications](#publications) | [Contact](#contact-me) | [Bio](#bio)
+### [CV](/webpage/docs/cv_yiyang_chang.pdf) | [Publications](#publications) | [Contact](#contact-me) | [Bio](#bio)
 
 ## Welcome!
 I am Yiyang Chang, currently a 4th year PhD in School of Electrical and
@@ -43,3 +43,5 @@ Engineering at Purdue University, advised by Professor Sanjay Rao. He
 obtained his B.S. degree from School of EECS, Peking University. His
 research currently focuses on network synthesis and validation with
 optimization approaches.
+
+{% include footer.html %}
