@@ -2,8 +2,8 @@
 
 ## Welcome!
 I am Yiyang Chang, currently a 4th year PhD in School of Electrical and
-Computer Engineering at Purdue University. Boiler up! My advisor is Prof.
-[Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
+Computer Engineering at [Purdue University](http://www.purdue.edu/). Boiler up!
+My advisor is Prof. [Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
 
 My research interets generally lie in the area of computer networks and
 distributed systems. I have done research in network validation and synthesis,
@@ -13,18 +13,21 @@ focusing on building a general framework for validating network designs.
 
 ## Publications
 * **Yiyang Chang**, Sanjay Rao, and Mohit Tawarmalani. *Robust Validation of Network
-Designs under Uncertain Demands and Failures*, **NSDI**, 2017.
+Designs under Uncertain Demands and Failures*, **USENIX NSDI**, 2017.
+[PDF](/webpage/docs/nsdi17-final59.pdf) |
+[Slides](/webpage/docs/nsdi2017_robust_network_validation_yiyang_chang.pdf)
 
 * **Yiyang Chang**, Ashkan Rezaei, Balajee Vamanan, Jahangir Hasan, Sanjay Rao, and T.
 N. Vijaykumar. *Hydra: Leveraging Functional Slicing for Efficient Distributed SDN
-Controllers*, **IEEE COMSNETS**, 2017.
+Controllers*, **IEEE COMSNETS**, 2017. [PDF](/webpage/docs/comsnets17_hydra.pdf)
 
 * **Yiyang Chang**, Gustavo Petri, Sanjay Rao, and Tiark Rompf. *Composing Middlebox
-and Traffic Engineering Policies in SDNs*, **INFOCOM Workshop SWFAN**, 2017.
+and Traffic Engineering Policies in SDNs*, **IEEE INFOCOM Workshop SWFAN**, 2017. To appear.
 
 * Mohammad Hajjat, Ruiqi Liu, **Yiyang Chang**, T. S. Eugene Ng, and Sanjay Rao.
 *Application-Specific Configuration Selection in the Cloud: Impact of Provider Policy
 and Potential of Systematic Testing*, **IEEE INFOCOM**, 2015.
+[PDF](/webpage/docs/hajjat2015infocomCloudPolicy.pdf)
 
 
 ## Contact me
