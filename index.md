@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[CV](https://github.com/on-the-run/webpage/docs/cv_yiyang_chang.pdf)
+[CV]({{https://github.com/on-the-run}}/webpage/docs/cv_yiyang_chang.pdf)
 
 You can use the [editor on GitHub](https://github.com/on-the-run/webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
