@@ -43,5 +43,3 @@ Engineering at Purdue University, advised by Professor Sanjay Rao. He
 obtained his B.S. degree from School of EECS, Peking University. His
 research currently focuses on network synthesis and validation with
 optimization approaches.
-
-{% include footer.html %}
