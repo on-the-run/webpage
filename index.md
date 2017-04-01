@@ -1,4 +1,4 @@
-### [CV]({{https://github.com/on-the-run}}/webpage/docs/cv_yiyang_chang.pdf) | [Publications](#publications) | [Contact](#contact me) | [Bio](#bio)
+### [CV]({{https://github.com/on-the-run}}/webpage/docs/cv_yiyang_chang.pdf) | [Publications](#publications) | [Contact](#contact-me) | [Bio](#bio)
 
 ## Welcome!
 I am Yiyang Chang, currently a 4th year PhD in School of Electrical and
