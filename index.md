@@ -23,8 +23,8 @@ N. Vijaykumar. *Hydra: Leveraging Functional Slicing for Efficient Distributed S
 Controllers*, **IEEE COMSNETS**, 2017. [PDF](/webpage/docs/comsnets17_hydra.pdf)
 
 * **Yiyang Chang**, Gustavo Petri, Sanjay Rao, and Tiark Rompf. *Composing Middlebox
-and Traffic Engineering Policies in SDNs*, **IEEE INFOCOM Workshop SWFAN**,
-2017. [PDF](/webpage/docs/paper_swfan2017_yiyang.pdf) |
+and Traffic Engineering Policies in SDNs*, **IEEE INFOCOM Workshop SWFAN**, 2017. 
+[PDF](/webpage/docs/paper_swfan2017_yiyang.pdf) |
 [Slides](/webpage/docs/slides_swfan2017_yiyang.pdf)
 
 * Mohammad Hajjat, Ruiqi Liu, **Yiyang Chang**, T. S. Eugene Ng, and Sanjay Rao.
