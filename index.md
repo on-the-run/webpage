@@ -1,5 +1,5 @@
 ## Welcome!
-I am Yiyang Chang, currently a 4th year PhD in School of Electrical and
+I am Yiyang Chang, currently a 5th year Ph.D. in School of Electrical and
 Computer Engineering at [Purdue University](http://www.purdue.edu/). Boiler up!
 My advisor is Prof. [Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
 
@@ -23,7 +23,9 @@ N. Vijaykumar. *Hydra: Leveraging Functional Slicing for Efficient Distributed S
 Controllers*, **IEEE COMSNETS**, 2017. [PDF](/webpage/docs/comsnets17_hydra.pdf)
 
 * **Yiyang Chang**, Gustavo Petri, Sanjay Rao, and Tiark Rompf. *Composing Middlebox
-and Traffic Engineering Policies in SDNs*, **IEEE INFOCOM Workshop SWFAN**, 2017. To appear.
+and Traffic Engineering Policies in SDNs*, **IEEE INFOCOM Workshop SWFAN**,
+2017. [PDF](/webpage/docs/paper_swfan2017_yiyang.pdf) |
+[Slides](slides_swfan2017_yiyang.pdf).
 
 * Mohammad Hajjat, Ruiqi Liu, **Yiyang Chang**, T. S. Eugene Ng, and Sanjay Rao.
 *Application-Specific Configuration Selection in the Cloud: Impact of Provider Policy
