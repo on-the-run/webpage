@@ -41,7 +41,8 @@ and Traffic Engineering Policies in SDNs*, **IEEE INFOCOM Workshop SWFAN**, 2017
 * Mohammad Hajjat, Ruiqi Liu, **Yiyang Chang**, T. S. Eugene Ng, and Sanjay Rao.
 *Application-Specific Configuration Selection in the Cloud: Impact of Provider Policy
 and Potential of Systematic Testing*, **IEEE INFOCOM**, 2015.
-[PDF](/webpage/docs/hajjat2015infocomCloudPolicy.pdf)
+[PDF](/webpage/docs/hajjat2015infocomCloudPolicy.pdf) |
+[Slides](/webpage/docs/infocom_slides.pdf)
 
 
 ## Contact me
