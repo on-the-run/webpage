@@ -21,9 +21,10 @@ Designs under Uncertain Demands and Failures*, **USENIX NSDI**, 2017.
 * **Yiyang Chang**, Ashkan Rezaei, Balajee Vamanan, Jahangir Hasan, Sanjay Rao, and T.
 N. Vijaykumar. *Hydra: Leveraging Functional Slicing for Efficient Distributed
 SDN Controllers*, **IEEE COMSNETS**, 2017.
-[PDF](/webpage/docs/comsnets17_hydra.pdf) (The paper was one of ten selected
-papers invited to submit an extended version for a Special volume of Springer
-Lecture Notes in Computer Science (LNCS) series)
+[PDF](/webpage/docs/comsnets17_hydra.pdf) |
+[Slides](/webpage/docs/hydra_comsnets_slides.pdf) (The paper was one of ten
+selected papers invited to submit an extended version for a Special volume of
+Springer Lecture Notes in Computer Science (LNCS) series)
 
 * **Yiyang Chang**, Ashkan Rezaei, Balajee Vamanan, Jahangir Hasan, Sanjay Rao, and T.
 N. Vijaykumar. *Exploring Functional Slicing in the Design of Distributed SDN
