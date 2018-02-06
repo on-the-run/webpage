@@ -26,11 +26,11 @@ papers invited to submit an extended version for a Special volume of Springer
 Lecture Notes in Computer Science (LNCS) series)
 
 * **Yiyang Chang**, Ashkan Rezaei, Balajee Vamanan, Jahangir Hasan, Sanjay Rao, and T.
-N. Vijaykumar. *Hydra: Leveraging Functional Slicing for Efficient Distributed
-SDN Controllers*, **Communication Systems and Networks. COMSNETS
-2017, Revised Selected Papers and Invited Papers. Lecture Notes in Computer
-Science (LNCS), Springer**, 2017.
-[PDF](/webpage/docs/hydra_journal.pdf) (Extended journal version of above)
+N. Vijaykumar. *Exploring Functional Slicing in the Design of Distributed SDN
+Controllers*, **Communication Systems and Networks. COMSNETS 2017, Revised
+Selected Papers and Invited Papers. Lecture Notes in Computer Science (LNCS),
+Springer**, 2017. [PDF](/webpage/docs/hydra_journal.pdf) (Extended journal
+version of above)
 
 * **Yiyang Chang**, Gustavo Petri, Sanjay Rao, and Tiark Rompf. *Composing Middlebox
 and Traffic Engineering Policies in SDNs*, **IEEE INFOCOM Workshop SWFAN**, 2017. 
