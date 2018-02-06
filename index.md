@@ -27,7 +27,9 @@ Lecture Notes in Computer Science (LNCS) series)
 
 * **Yiyang Chang**, Ashkan Rezaei, Balajee Vamanan, Jahangir Hasan, Sanjay Rao, and T.
 N. Vijaykumar. *Hydra: Leveraging Functional Slicing for Efficient Distributed
-SDN Controllers*, **IEEE COMSNETS**, 2017.
+SDN Controllers*, **Communication Systems and Networks. COMSNETS
+2017, Revised Selected Papers and Invited Papers. Lecture Notes in Computer
+Science (LNCS), Springer**, 2017.
 [PDF](/webpage/docs/hydra_journal.pdf) (Extended journal version of above)
 
 * **Yiyang Chang**, Gustavo Petri, Sanjay Rao, and Tiark Rompf. *Composing Middlebox
