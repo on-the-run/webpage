@@ -3,7 +3,7 @@ I am Yiyang Chang, currently a 5th year Ph.D. in School of Electrical and
 Computer Engineering at [Purdue University](http://www.purdue.edu/). Boiler up!
 My advisor is Prof. [Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
 
-My research interets generally lie in the area of computer networks and
+My research interests generally lie in the area of computer networks and
 distributed systems. I have done research in network validation and synthesis,
 cloud computing, SDN distributed controller design, etc. I am currently
 focusing on building a general framework for validating network designs.
@@ -19,8 +19,16 @@ Designs under Uncertain Demands and Failures*, **USENIX NSDI**, 2017.
 [Slides](/webpage/docs/nsdi2017_robust_network_validation_yiyang_chang.pdf)
 
 * **Yiyang Chang**, Ashkan Rezaei, Balajee Vamanan, Jahangir Hasan, Sanjay Rao, and T.
-N. Vijaykumar. *Hydra: Leveraging Functional Slicing for Efficient Distributed SDN
-Controllers*, **IEEE COMSNETS**, 2017. [PDF](/webpage/docs/comsnets17_hydra.pdf)
+N. Vijaykumar. *Hydra: Leveraging Functional Slicing for Efficient Distributed
+SDN Controllers*, **IEEE COMSNETS**, 2017.
+[PDF](/webpage/docs/comsnets17_hydra.pdf) (The paper was one of ten selected
+papers invited to submit an extended version for a Special volume of Springer
+Lecture Notes in Computer Science (LNCS) series)
+
+* **Yiyang Chang**, Ashkan Rezaei, Balajee Vamanan, Jahangir Hasan, Sanjay Rao, and T.
+N. Vijaykumar. *Hydra: Leveraging Functional Slicing for Efficient Distributed
+SDN Controllers*, **IEEE COMSNETS**, 2017.
+[PDF](/webpage/docs/hydra_journal.pdf) (Extended journal version of above)
 
 * **Yiyang Chang**, Gustavo Petri, Sanjay Rao, and Tiark Rompf. *Composing Middlebox
 and Traffic Engineering Policies in SDNs*, **IEEE INFOCOM Workshop SWFAN**, 2017. 
