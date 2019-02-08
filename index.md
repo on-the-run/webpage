@@ -1,12 +1,14 @@
 ## Welcome!
-I am Yiyang Chang, currently a 5th year Ph.D. in School of Electrical and
+
+### Currently looking for industrial positions. Expect to graduate by July 2019.
+I am Yiyang Chang, Ph.D. Candidate in School of Electrical and
 Computer Engineering at [Purdue University](http://www.purdue.edu/). Boiler up!
 My advisor is Prof. [Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
 
-My research interests generally lie in the area of computer networks and
-distributed systems. I have done research in network validation and synthesis,
-cloud computing, SDN distributed controller design, etc. I am currently
-focusing on building a general framework for validating network designs.
+My research interests generally lie in the area of computer networking. I have
+done research in network validation and synthesis, cloud computing, SDN
+distributed controller design, etc. I am currently focusing on building a
+general framework for validating network designs.
 
 Before coming to Purdue, I received my B.S. from School of EECS at Peking
 University in Beijing, China.
@@ -50,7 +52,7 @@ Email: chang256 (at) purdue (dot) edu
 
 
 ## Bio
-Yiyang Chang is a Ph.D. student in the School of Electrical and Computer
+Yiyang Chang is a Ph.D. Candidate in the School of Electrical and Computer
 Engineering at Purdue University, advised by Professor Sanjay Rao. He
 obtained his B.S. degree from School of EECS, Peking University. His
 research currently focuses on network synthesis and validation with
