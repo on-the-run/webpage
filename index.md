@@ -1,14 +1,15 @@
 ## Welcome!
 
-### Currently looking for industrial positions. Expect to graduate by July 2019.
-I am Yiyang Chang, Ph.D. Candidate in School of Electrical and
-Computer Engineering at [Purdue University](http://www.purdue.edu/). Boiler up!
-My advisor is Prof. [Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
+I am Yiyang Chang, currently working as a Researcher in System and Networking
+at [ByteDance Inc](https://bytedance.com/en), Seattle. I received my Ph.D. from
+School of Electrical and Computer Engineering at [Purdue
+University](http://www.purdue.edu/). Boiler up!  My Ph.D. advisor is Prof.
+[Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
 
-My research interests generally lie in the area of computer networking. I have
-done research in network validation and synthesis, cloud computing, SDN
-distributed controller design, etc. I am currently focusing on building a
-general framework for validating network designs.
+My research interests generally lie in Computer Systems and Networking. I have
+done research in network validation and synthesis, cloud computing, and
+distributed SDN controller design during my Ph.D. career. My dissertation
+focuses on building a general framework for validating network designs.
 
 Before coming to Purdue, I received my B.S. from School of EECS at Peking
 University in Beijing, China.
@@ -48,12 +49,11 @@ and Potential of Systematic Testing*, **IEEE INFOCOM**, 2015.
 
 
 ## Contact me
-Email: chang256 (at) purdue (dot) edu
+Email: yiyangchang1024 (at) gmail (dot) com
 
 
 ## Bio
-Yiyang Chang is a Ph.D. Candidate in the School of Electrical and Computer
-Engineering at Purdue University, advised by Professor Sanjay Rao. He
-obtained his B.S. degree from School of EECS, Peking University. His
-research currently focuses on network synthesis and validation with
-optimization approaches.
+Yiyang Chang received his Ph.D. from Purdue University, the School of
+Electrical and Computer Engineering. His Ph.D. advisor is Professor Sanjay Rao.
+He received his B.S. from School of EECS, Peking University. His
+research interests lie in Computer Systems and Networking.
