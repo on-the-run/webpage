@@ -1,21 +1,28 @@
 ## Welcome!
 
 I am Yiyang Chang, currently working as a Researcher in System and Networking
-at [ByteDance Inc](https://bytedance.com/en), Seattle. I received my Ph.D. from
+at [Bytedance Inc](https://www.bytedance.com/), Seattle. I received my Ph.D. from
 School of Electrical and Computer Engineering at [Purdue
-University](http://www.purdue.edu/). Boiler up!  My Ph.D. advisor is Prof.
-[Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
+University](https://www.purdue.edu/). Boiler up!  My Ph.D. advisor is Prof.
+[Sanjay Rao](https://engineering.purdue.edu/~sanjay/). Prior to that, I
+received my B.S. from School of EECS at Peking University in Beijing, China.
 
-My research interests generally lie in Computer Systems and Networking. I have
-done research in network validation and synthesis, cloud computing, and
-distributed SDN controller design during my Ph.D. career. My dissertation
-focuses on building a general framework for validating network designs.
-
-Before coming to Purdue, I received my B.S. from School of EECS at Peking
-University in Beijing, China.
+My research interests lie in Computer Systems and Networking. I have been
+working on traffic engineering, network validation and synthesis, cloud
+computing, and distributed SDN controller design. My
+[Ph.D. dissertation](https://hammer.purdue.edu/articles/thesis/Ensuring_Network_Designs_Meet_Performance_Requirements_under_Failures/8317076)
+is about formally validating network designs to meet performance requirements
+under failures.
 
 
 ## Publications
+* **Yiyang Chang**, Chuan Jiang, Ashish Chandra, Sanjay Rao, and Mohit
+Tawarmalani. *Lancet: Better network resilience by designing for pruned
+failure sets*, **ACM SIGMETRICS**, 2020.
+[PDF](/webpage/docs/sigmetrics2020-full-chang.pdf) |
+[Slides](/webpage/docs/sigmetrics2020_presentation_slides_yiyang_chang.pdf) |
+[Video](https://www.youtube.com/watch?v=is9M5NQNIPc&ab_channel=ACMSIGMETRICS)
+
 * **Yiyang Chang**, Sanjay Rao, and Mohit Tawarmalani. *Robust Validation of Network
 Designs under Uncertain Demands and Failures*, **USENIX NSDI**, 2017.
 [PDF](/webpage/docs/nsdi17-final59.pdf) |
@@ -48,12 +55,16 @@ and Potential of Systematic Testing*, **IEEE INFOCOM**, 2015.
 [Slides](/webpage/docs/infocom_slides.pdf)
 
 
+## Professional services
+* Reviewer of IEEE Communication Letters, IEEE Access, IEEE Transactions on
+Networking and Service Management, and The Journal of Supercomputing
+
 ## Contact me
 Email: yiyangchang1024 (at) gmail (dot) com
 
 
 ## Bio
-Yiyang Chang received his Ph.D. from Purdue University, the School of
-Electrical and Computer Engineering. His Ph.D. advisor is Professor Sanjay Rao.
-He received his B.S. from School of EECS, Peking University. His
-research interests lie in Computer Systems and Networking.
+Yiyang Chang is a Researcher in System and Networking at Bytedance Inc. He
+received his Ph.D. degree from School of Electrical and Computer Engineering,
+Purdue University. He received his B.S. degree from School of EECS, Peking
+University. His research interests lie in Computer Systems and Networking.
